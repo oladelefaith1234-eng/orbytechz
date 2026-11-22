@@ -1,0 +1,5 @@
+Orbytechz crawler files
+
+The canonical domain in robots.txt, sitemap.xml, and page metadata is https://orbytechz.space/. Deploy the website at this domain over HTTPS for crawler URLs to resolve. Keep robots.txt and sitemap.xml at the website root, then submit https://orbytechz.space/sitemap.xml through the search engine webmaster tools you use.
+
+These files help crawlers discover pages but do not guarantee indexing or ranking.
